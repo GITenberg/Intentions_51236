@@ -1,19 +1,22 @@
 _repo: Intentions_51236
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Grolleau, Charles
-    birthdate: &id001 1867
+    birthdate: 1867
     deathdate: 1940
     gutenberg_agent_id: '42734'
     url: http://www.gutenberg.org/2009/agents/42734
   translator:
     agent_name: Rebell, Hugues
     alias: Grassal, Georges-Joseph
-    birthdate: *id001
+    birthdate: 1867
     deathdate: 1905
     gutenberg_agent_id: '39073'
     url: http://www.gutenberg.org/2009/agents/39073
+covers:
+- cover_type: archival
+  image_path: 51236-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilde, Oscar
@@ -26,6 +29,8 @@ creator:
     - http://en.wikipedia.org/wiki/Oscar_Wilde
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51236#Intentions
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2016-02-16'
 gutenberg_type: Text
